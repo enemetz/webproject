@@ -1,0 +1,46 @@
+h1 {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+p {
+    font-size: 20px;
+    font-family: "Tahoma, Geneva, sans-serif";
+    margin: 30px;
+}
+
+header nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+header p {
+    padding: 0 20px;
+    margin: 0;
+}
+
+header .row,
+footer .row {
+    display: flex;
+    align-items: center;
+}
+
+header h1 {
+    font-weight: 200;
+    margin: 0;
+}
+
+header {
+    padding: 20px 0;
+}
+
+header h1 {
+    font-weight: 700;
+    margin: 0;
+}
+
+footer .col-sm-8 {
+    display: flex;
+    justify-content: flex-end;
+}
